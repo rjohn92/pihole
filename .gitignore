@@ -2,3 +2,6 @@
 Readme.txt
 etc-pihole/
 etc-dnsmasq.d/
+.env
+.env.*
+*.env
